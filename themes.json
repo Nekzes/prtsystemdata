@@ -1,0 +1,58 @@
+{
+    "default": {
+        "primary": "CYAN",
+        "secondary": "YELLOW",
+        "text": "WHITE",
+        "error": "RED",
+        "success": "GREEN"
+    },
+    "dark": {
+        "primary": "BLUE",
+        "secondary": "MAGENTA",
+        "text": "WHITE",
+        "error": "RED",
+        "success": "GREEN"
+    },
+    "light": {
+        "primary": "BLUE",
+        "secondary": "CYAN",
+        "text": "BLACK",
+        "error": "RED",
+        "success": "GREEN"
+    },
+    "matrix": {
+        "primary": "GREEN",
+        "secondary": "GREEN",
+        "text": "GREEN",
+        "error": "RED",
+        "success": "GREEN"
+    },
+    "red": {
+        "primary": "RED",
+        "secondary": "LIGHTRED_EX",
+        "text": "WHITE",
+        "error": "LIGHTRED_EX",
+        "success": "LIGHTGREEN_EX"
+    },
+    "ocean": {
+        "primary": "BLUE",
+        "secondary": "CYAN",
+        "text": "LIGHTBLUE_EX",
+        "error": "RED",
+        "success": "GREEN"
+    },
+    "sunset": {
+        "primary": "MAGENTA",
+        "secondary": "YELLOW",
+        "text": "LIGHTYELLOW_EX",
+        "error": "RED",
+        "success": "GREEN"
+    },
+    "cyberpunk": {
+        "primary": "MAGENTA",
+        "secondary": "CYAN",
+        "text": "LIGHTMAGENTA_EX",
+        "error": "RED",
+        "success": "GREEN"
+    }
+} 
